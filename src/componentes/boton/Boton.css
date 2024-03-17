@@ -1,0 +1,12 @@
+.boton{
+    background-color: blue;
+    color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 1rem;
+}
+
+.contenedor-btn{
+    padding: 1rem;
+}
