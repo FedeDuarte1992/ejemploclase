@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://FedeDuarte1992.github.io/ejemploclase",
+  "homepage": "https://FedeDuarte1992.github.io/ejemploclase.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
